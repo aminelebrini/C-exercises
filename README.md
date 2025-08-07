@@ -23,8 +23,8 @@ To run any of the exercises locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/c-exercises.git
-   cd c-exercises
+   git clone https://github.com/aminelebrini/C-exercises.git
+   cd C-exercises
 
 gcc filename.c -o output
 ./output
