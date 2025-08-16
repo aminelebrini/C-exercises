@@ -26,5 +26,5 @@ To run any of the exercises locally:
    git clone https://github.com/aminelebrini/C-exercises.git
    cd C-exercises
 
-gcc filename.c -o output
+2. gcc filename.c -o output
 ./output
